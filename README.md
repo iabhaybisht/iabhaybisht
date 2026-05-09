@@ -1,9 +1,7 @@
-
-![1500x500](https://github.com/user-attachments/assets/1c80ec67-61d2-449a-8ed7-7ae7999fd0eb)
-
+<img width="4032" height="3024" alt="IMG_1534" src="https://github.com/user-attachments/assets/290b8a86-eec8-49cb-8ab1-026147315741" />
 
 ## About Me
-- Hi, I’m Abhay Bisht, a Full Stack Developer with 1.5 years of full-time experience and 1.5+ years through 5 high-impact internships, building production-grade web and AI-powered applications.
+- Hi, I’m Abhay Bisht, a Full Stack Developer with 1.5 years of full-time experience and 1.5+ years through building production-grade web and AI-powered applications.
 - My expertise spans TypeScript, MERN Stack, Next.js, React Native, Python & FastAPI, and GenAI systems including LLM-based agentic workflows, RAG, and AI automation.
 - I’ve worked on a wide range of products such as AI-powered Copilot SDKs & agent dashboards, AI-driven SDR platform, AI Powered healthcare training systems, AI-ML project deployment platforms, along with project management tools, dashboards, and e-commerce applications.
 - I enjoy turning complex ideas into clean, high-performance, user-centric products, with a strong focus on system design, performance optimization, and maintainable code.
@@ -74,6 +72,6 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]([https://twitter.com/2002ABHaYBISHT](https://x.com/Abhay_Bisht_SDE))
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/channel/UCugIZ91q6x0MpXSHB0W2InA) 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhay-bisht-best-sde/)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iabhaybisht/)
 
 ![mario](https://github.com/Znoy108x/Znoy108x/assets/75539409/16540697-00a3-42bb-bf9c-abe2537f771a)
