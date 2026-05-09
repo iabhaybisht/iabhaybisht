@@ -1,3 +1,5 @@
+<img width="4032" height="3024" alt="IMG_1391" src="https://github.com/user-attachments/assets/d5c1e44c-6993-4a97-996d-fa15a279e2d4" />
+
 <img width="4032" height="3024" alt="IMG_1534" src="https://github.com/user-attachments/assets/290b8a86-eec8-49cb-8ab1-026147315741" />
 
 ## About Me
