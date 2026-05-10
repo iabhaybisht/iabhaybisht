@@ -25,7 +25,7 @@
 
 ## About Me
 
-- Hi, I'm **Abhay Bisht**, a Full Stack Developer with **3+ years of working experience** building production-grade web and AI-powered applications.
+- Hi, I'm **Abhay Bisht**, a Full Stack Developer AI development with **3+ years of working experience** building production-grade web and AI-powered applications.
 - My expertise spans **TypeScript, MERN Stack, Next.js, React Native, Python & FastAPI**, and **GenAI systems** including LLM-based agentic workflows, RAG, and AI automation.
 - I've worked on a wide range of products — AI-powered Copilot SDKs & agent dashboards, AI-driven SDR platforms, AI-powered healthcare training systems, and project management tools, dashboards, and e-commerce applications.
 - I enjoy turning complex ideas into **clean, high-performance, user-centric products**, with a strong focus on **performance optimization** and **maintainable code**.
