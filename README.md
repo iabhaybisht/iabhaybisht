@@ -22,7 +22,6 @@
     <td width="33%"><img src="assets/chopta-pines.jpg" alt="Pine valley below Himalayan peaks at Chopta"></td>
   </tr>
 </table>
-<p align="center"><sub>Tungnath · Munnar · Neil Island · Sakleshpura · Chopta, shot on my trips</sub></p>
 
 ### What I do
 
